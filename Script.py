@@ -21,7 +21,7 @@ class text(object):
 <b>‣ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 :</b> <a href='https://www.mongodb.com/'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡</a>
 <b>‣ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 :</b> <a href='https://www.python.org/download/releases/3.0/'>𝖯𝗒𝗍𝗁𝗈𝗇 𝟥</a>
 <b>‣ 𝖡𝗈𝗍 𝖲𝖾𝗋𝗏𝖾𝗋 :</b> <a href='https://www.koyeb.com/'>𝖪𝗈𝗒𝖾𝖻</a>
-<b>‣ 𝖢𝗋𝖾𝖺𝗍𝖾𝖽 𝖡𝗒 :</b> <a href='https://telegram.me/callownerbot'>𝖱𝖺𝗁𝗎𝗅</a>"""
+<b>‣ 𝖢𝗋𝖾𝖺𝗍𝖾𝖽 𝖡𝗒 :</b> <a href='https://telegram.me/Senpai_jiro'>𝑱𝒊𝒓𝒐</a>"""
   
   HELP = """<blockquote><b>🚀 𝘚𝘩𝘰𝘳𝘵𝘭𝘪𝘯𝘬 𝘉𝘰𝘵 𝘎𝘶𝘪𝘥𝘦</b></blockquote>
 
