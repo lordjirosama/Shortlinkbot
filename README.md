@@ -1,5 +1,5 @@
 <h1 align="center">
- <b><a href="https://youtu.be/G8Nk01i0N8c" target="/blank">ShortLink Bot</a>
+ <b><a href="https://telegram.me/senpai_jiro" target="/blank">ShortLink Bot</a>
 </h1>
 
 <p align="center">🩷 Thanks for Being Here 🩷</p>
@@ -21,7 +21,7 @@
 - Tiny Url support
 - Maintenance Mode
 - Deploy on Heroku + Koyeb + Render + Railway.
-- [Developer support](https://telegram.me/TechifySupport) 24x7
+- [Developer support](https://telegram.me/senpai_jiro) 24x7
 </details>
 
 ### 😍 COMMANDS
