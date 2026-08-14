@@ -60,13 +60,13 @@ tiny - To short url using tiny
 
 ### 💞 CREDIT
 
-- [TechifyBots](https://github.com/TechifyBots)
+- [𝑱𝒊𝒓𝒐](https://telegram.me/senpai_jiro)
 
-### 😇 [SUPPORT](https://techifybots.github.io/PayWeb)
+### 😇 [SUPPORT](https://telegram.me/Jiro_bots)
 
-### 🥳 [DEVELOPER](https://instagram.com/ImRahulDhankhar)
+### 🥳 [DEVELOPER](https://telegram.me/senpai_jiro)
 
-### 🚀 [DEPLOYMENT GUIDE](https://www.youtube.com/playlist?list=PLQrMSile4s5UnIEvWyKM1MKFuNg8Wfh2S)
+### 🚀 [DEPLOYMENT GUIDE](https://telegram.me/senpai_jiro)
 
 ### 📌 NOTE
 
