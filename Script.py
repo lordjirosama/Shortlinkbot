@@ -28,7 +28,7 @@ class text(object):
 𝘌𝘢𝘴𝘪𝘭𝘺 𝘴𝘩𝘰𝘳𝘵𝘦𝘯 𝘢𝘯𝘺 𝘭𝘪𝘯𝘬 𝘶𝘴𝘪𝘯𝘨 𝘤𝘰𝘮𝘮𝘢𝘯𝘥𝘴:
 
 <b>𝘌𝘹𝘢𝘮𝘱𝘭𝘦:</b>
-◉ `/tiny https://youtube.com/@techifybots`
+◉ `/tiny https://telegram.me/Jiro_bots`
 
 <b>🔧 𝘚𝘦𝘵 𝘠𝘰𝘶𝘳 𝘗𝘳𝘦𝘧𝘦𝘳𝘳𝘦𝘥 𝘚𝘩𝘰𝘳𝘵𝘦𝘯𝘦𝘳:</b>  
 ◉ `/shortlink [site] [api_key]`
