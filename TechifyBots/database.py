@@ -96,4 +96,4 @@ class Techifybots:
             print("Error in get_value:", e)
             return None
 
-tb = Techifybots()
+tb = solorix_bots()
