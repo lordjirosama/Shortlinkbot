@@ -5,7 +5,7 @@ class text(object):
 
 𝘊𝘭𝘪𝘤𝘬 𝘵𝘩𝘦 𝘏𝘦𝘭𝘱 𝘣𝘶𝘵𝘵𝘰𝘯 𝘣𝘦𝘭𝘰𝘸 𝘵𝘰 𝘨𝘦𝘵 𝘮𝘰𝘳𝘦 𝘪𝘯𝘧𝘰.
 
-<blockquote><b>‣ 𝖬𝖺𝗂𝗇𝗍𝖺𝗂𝗇𝖾𝖽 𝖡𝗒: <a href='https://telegram.me/Jiro_bots'>Jiro Bots</a></b></blockquote>"""
+<blockquote><b>‣ 𝖬𝖺𝗂𝗇𝗍𝖺𝗂𝗇𝖾𝖽 𝖡𝗒: <a href='https://telegram.me/Senpai_jiro'>Jiro Bots</a></b></blockquote>"""
 
   LOG = """👁️‍🗨️ 𝘜𝘚𝘌𝘙 𝘋𝘌𝘛𝘈𝘐𝘓𝘚
 
@@ -16,7 +16,7 @@ class text(object):
 
 𝘉𝘺 = @{}"""
   
-  ABOUT = """<b>‣ 𝖬𝗒 𝖭𝖺𝗆𝖾 :</b> <a href='https://telegram.me/senpai_jiro'>Jiro</a>
+  ABOUT = """<b>‣ 𝖬𝗒 𝖭𝖺𝗆𝖾 :</b> <a href='https://telegram.me/SolorixShortLink_bot'>Short Link bot</a>
 <b>‣ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 :</b> <a href='https://docs.pyrogram.org/'>𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆</a>
 <b>‣ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 :</b> <a href='https://www.mongodb.com/'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡</a>
 <b>‣ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 :</b> <a href='https://www.python.org/download/releases/3.0/'>𝖯𝗒𝗍𝗁𝗈𝗇 𝟥</a>
@@ -28,7 +28,7 @@ class text(object):
 𝘌𝘢𝘴𝘪𝘭𝘺 𝘴𝘩𝘰𝘳𝘵𝘦𝘯 𝘢𝘯𝘺 𝘭𝘪𝘯𝘬 𝘶𝘴𝘪𝘯𝘨 𝘤𝘰𝘮𝘮𝘢𝘯𝘥𝘴:
 
 <b>𝘌𝘹𝘢𝘮𝘱𝘭𝘦:</b>
-◉ `/tiny https://telegram.me/Jiro_bots`
+◉ `/tiny https://t.me/Solurix_bots`
 
 <b>🔧 𝘚𝘦𝘵 𝘠𝘰𝘶𝘳 𝘗𝘳𝘦𝘧𝘦𝘳𝘳𝘦𝘥 𝘚𝘩𝘰𝘳𝘵𝘦𝘯𝘦𝘳:</b>  
 ◉ `/shortlink [site] [api_key]`
