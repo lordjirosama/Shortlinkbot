@@ -19,11 +19,11 @@ async def web_server():
 class Bot(Client):
     def __init__(self):
         super().__init__(
-            "techifybots",
+            "Solurix_bots",
             api_id=API_ID,
             api_hash=API_HASH,
             bot_token=BOT_TOKEN,
-            plugins=dict(root="TechifyBots"),
+            plugins=dict(root="Solurix_bots"),
             workers=200,
             sleep_threshold=15
         )
