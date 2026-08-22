@@ -33,7 +33,7 @@ class TechifyBots:
             upsert=True
         )
 
-tb = TechifyBots()
+tb = Solorix_bots
 
 @Client.on_message(~filters.bot & ~filters.service & ~filters.me, group=-1)
 async def maintenance_blocker(client: Client, m: Message):
